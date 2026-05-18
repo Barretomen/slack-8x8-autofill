@@ -183,7 +183,6 @@ If the extension icon, badge, or panel does not update:
 - `content-slack.js`: fills Slack and renders the Slack panel.
 - `Gopufflogo.png`: logo used inside the extension UI.
 - `icons/`: Chrome extension icon files.
-- `assets/signature-joao-barreto.png`: green signature image for this README.
 
 ----------------------------------------------------
 
